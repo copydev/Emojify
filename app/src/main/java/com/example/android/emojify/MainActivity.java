@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int REQUEST_STORAGE_PERMISSION = 1;
 
     private static final String FILE_PROVIDER_AUTHORITY = "com.example.android.fileprovider";
+    //little change
 
     private static ImageView mImageView;
     private static Button mEmojifyButton;
